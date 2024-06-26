@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+datavalidator/__init__.py
+datavalidator/utils.py
+datavalidator/validators.py
+datavalidator.egg-info/PKG-INFO
+datavalidator.egg-info/SOURCES.txt
+datavalidator.egg-info/dependency_links.txt
+datavalidator.egg-info/top_level.txt
+tests/test.utils.py
+tests/test_validators.py
